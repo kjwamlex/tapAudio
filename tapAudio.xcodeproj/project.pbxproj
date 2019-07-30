@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		512FFDF521320246000B6C3C /* setupLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 512FFDF421320246000B6C3C /* setupLogo.png */; };
+		88399C3220EEE42000CD8E32 /* musicPlayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88399C3120EEE42000CD8E32 /* musicPlayViewController.swift */; };
+		88399C5A20EF0EB400CD8E32 /* PlayButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 88399C4D20EF0EB000CD8E32 /* PlayButton.png */; };
+		88399C5B20EF0EB400CD8E32 /* hapticControl.png in Resources */ = {isa = PBXBuildFile; fileRef = 88399C4E20EF0EB000CD8E32 /* hapticControl.png */; };
+		88399C5C20EF0EB400CD8E32 /* Haptic3DTouch.png in Resources */ = {isa = PBXBuildFile; fileRef = 88399C4F20EF0EB000CD8E32 /* Haptic3DTouch.png */; };
+		88399C5D20EF0EB400CD8E32 /* RepetitionOptions.png in Resources */ = {isa = PBXBuildFile; fileRef = 88399C5020EF0EB100CD8E32 /* RepetitionOptions.png */; };
+		88399C5E20EF0EB400CD8E32 /* InfiniteView Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 88399C5120EF0EB100CD8E32 /* InfiniteView Icon.png */; };
+		88399C5F20EF0EB400CD8E32 /* StrengthOptions.png in Resources */ = {isa = PBXBuildFile; fileRef = 88399C5220EF0EB100CD8E32 /* StrengthOptions.png */; };
+		88399C6020EF0EB400CD8E32 /* SkipRIght.png in Resources */ = {isa = PBXBuildFile; fileRef = 88399C5320EF0EB200CD8E32 /* SkipRIght.png */; };
+		88399C6120EF0EB400CD8E32 /* Repeat3DTouch.png in Resources */ = {isa = PBXBuildFile; fileRef = 88399C5420EF0EB200CD8E32 /* Repeat3DTouch.png */; };
+		88399C6220EF0EB400CD8E32 /* Pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 88399C5520EF0EB200CD8E32 /* Pause.png */; };
+		88399C6320EF0EB400CD8E32 /* SkipLeft.png in Resources */ = {isa = PBXBuildFile; fileRef = 88399C5620EF0EB300CD8E32 /* SkipLeft.png */; };
+		88399C6420EF0EB400CD8E32 /* SLiderGrabber.png in Resources */ = {isa = PBXBuildFile; fileRef = 88399C5720EF0EB300CD8E32 /* SLiderGrabber.png */; };
+		88399C6620EF0EB400CD8E32 /* Sound3DTouch.png in Resources */ = {isa = PBXBuildFile; fileRef = 88399C5920EF0EB300CD8E32 /* Sound3DTouch.png */; };
 		888619D220ED22D800313771 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 888619D120ED22D800313771 /* AppDelegate.swift */; };
 		888619D420ED22D800313771 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 888619D320ED22D800313771 /* ViewController.swift */; };
 		888619D720ED22D800313771 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 888619D520ED22D800313771 /* Main.storyboard */; };
@@ -15,6 +29,11 @@
 		888619DF20ED22DC00313771 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 888619DD20ED22DC00313771 /* LaunchScreen.storyboard */; };
 		888619EA20ED22DC00313771 /* tapAudioTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 888619E920ED22DC00313771 /* tapAudioTests.swift */; };
 		888619F520ED22DC00313771 /* tapAudioUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 888619F420ED22DC00313771 /* tapAudioUITests.swift */; };
+		88861A0620ED3BBB00313771 /* MediaToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88861A0520ED3BBB00313771 /* MediaToolbox.framework */; };
+		88861A0820ED3BC200313771 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88861A0720ED3BC200313771 /* MediaPlayer.framework */; };
+		88861A0A20ED3BCE00313771 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88861A0920ED3BCE00313771 /* AudioToolbox.framework */; };
+		88AA55C520FFE11C003D3BCF /* initialLaunchCheck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88AA55C420FFE11C003D3BCF /* initialLaunchCheck.swift */; };
+		88AA55C721001B25003D3BCF /* getStartedAtLaunchScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88AA55C621001B25003D3BCF /* getStartedAtLaunchScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +54,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		512FFDF421320246000B6C3C /* setupLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = setupLogo.png; path = ../../../Downloads/setupLogo.png; sourceTree = "<group>"; };
+		88399C3120EEE42000CD8E32 /* musicPlayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = musicPlayViewController.swift; sourceTree = "<group>"; };
+		88399C4D20EF0EB000CD8E32 /* PlayButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PlayButton.png; sourceTree = "<group>"; };
+		88399C4E20EF0EB000CD8E32 /* hapticControl.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hapticControl.png; sourceTree = "<group>"; };
+		88399C4F20EF0EB000CD8E32 /* Haptic3DTouch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Haptic3DTouch.png; sourceTree = "<group>"; };
+		88399C5020EF0EB100CD8E32 /* RepetitionOptions.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RepetitionOptions.png; sourceTree = "<group>"; };
+		88399C5120EF0EB100CD8E32 /* InfiniteView Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "InfiniteView Icon.png"; sourceTree = "<group>"; };
+		88399C5220EF0EB100CD8E32 /* StrengthOptions.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StrengthOptions.png; sourceTree = "<group>"; };
+		88399C5320EF0EB200CD8E32 /* SkipRIght.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SkipRIght.png; sourceTree = "<group>"; };
+		88399C5420EF0EB200CD8E32 /* Repeat3DTouch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Repeat3DTouch.png; sourceTree = "<group>"; };
+		88399C5520EF0EB200CD8E32 /* Pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pause.png; sourceTree = "<group>"; };
+		88399C5620EF0EB300CD8E32 /* SkipLeft.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SkipLeft.png; sourceTree = "<group>"; };
+		88399C5720EF0EB300CD8E32 /* SLiderGrabber.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SLiderGrabber.png; sourceTree = "<group>"; };
+		88399C5920EF0EB300CD8E32 /* Sound3DTouch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Sound3DTouch.png; sourceTree = "<group>"; };
 		888619CE20ED22D800313771 /* tapAudio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tapAudio.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		888619D120ED22D800313771 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		888619D320ED22D800313771 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +82,11 @@
 		888619F020ED22DC00313771 /* tapAudioUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tapAudioUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		888619F420ED22DC00313771 /* tapAudioUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tapAudioUITests.swift; sourceTree = "<group>"; };
 		888619F620ED22DC00313771 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88861A0520ED3BBB00313771 /* MediaToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaToolbox.framework; path = System/Library/Frameworks/MediaToolbox.framework; sourceTree = SDKROOT; };
+		88861A0720ED3BC200313771 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		88861A0920ED3BCE00313771 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		88AA55C420FFE11C003D3BCF /* initialLaunchCheck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = initialLaunchCheck.swift; sourceTree = "<group>"; };
+		88AA55C621001B25003D3BCF /* getStartedAtLaunchScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = getStartedAtLaunchScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +94,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88861A0A20ED3BCE00313771 /* AudioToolbox.framework in Frameworks */,
+				88861A0820ED3BC200313771 /* MediaPlayer.framework in Frameworks */,
+				88861A0620ED3BBB00313771 /* MediaToolbox.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,6 +124,7 @@
 				888619E820ED22DC00313771 /* tapAudioTests */,
 				888619F320ED22DC00313771 /* tapAudioUITests */,
 				888619CF20ED22D800313771 /* Products */,
+				88861A0420ED3BBB00313771 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,8 +143,24 @@
 			children = (
 				888619D120ED22D800313771 /* AppDelegate.swift */,
 				888619D320ED22D800313771 /* ViewController.swift */,
+				88AA55C420FFE11C003D3BCF /* initialLaunchCheck.swift */,
+				88399C3120EEE42000CD8E32 /* musicPlayViewController.swift */,
+				88AA55C621001B25003D3BCF /* getStartedAtLaunchScreen.swift */,
 				888619D520ED22D800313771 /* Main.storyboard */,
 				888619DB20ED22DC00313771 /* Assets.xcassets */,
+				88399C4F20EF0EB000CD8E32 /* Haptic3DTouch.png */,
+				88399C4E20EF0EB000CD8E32 /* hapticControl.png */,
+				512FFDF421320246000B6C3C /* setupLogo.png */,
+				88399C5120EF0EB100CD8E32 /* InfiniteView Icon.png */,
+				88399C5520EF0EB200CD8E32 /* Pause.png */,
+				88399C4D20EF0EB000CD8E32 /* PlayButton.png */,
+				88399C5420EF0EB200CD8E32 /* Repeat3DTouch.png */,
+				88399C5020EF0EB100CD8E32 /* RepetitionOptions.png */,
+				88399C5620EF0EB300CD8E32 /* SkipLeft.png */,
+				88399C5320EF0EB200CD8E32 /* SkipRIght.png */,
+				88399C5720EF0EB300CD8E32 /* SLiderGrabber.png */,
+				88399C5920EF0EB300CD8E32 /* Sound3DTouch.png */,
+				88399C5220EF0EB100CD8E32 /* StrengthOptions.png */,
 				888619DD20ED22DC00313771 /* LaunchScreen.storyboard */,
 				888619E020ED22DC00313771 /* Info.plist */,
 				888619D820ED22D800313771 /* tapAudio.xcdatamodeld */,
@@ -126,6 +184,16 @@
 				888619F620ED22DC00313771 /* Info.plist */,
 			);
 			path = tapAudioUITests;
+			sourceTree = "<group>";
+		};
+		88861A0420ED3BBB00313771 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				88861A0920ED3BCE00313771 /* AudioToolbox.framework */,
+				88861A0720ED3BC200313771 /* MediaPlayer.framework */,
+				88861A0520ED3BBB00313771 /* MediaToolbox.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +300,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88399C6320EF0EB400CD8E32 /* SkipLeft.png in Resources */,
+				88399C5F20EF0EB400CD8E32 /* StrengthOptions.png in Resources */,
+				512FFDF521320246000B6C3C /* setupLogo.png in Resources */,
+				88399C5B20EF0EB400CD8E32 /* hapticControl.png in Resources */,
 				888619DF20ED22DC00313771 /* LaunchScreen.storyboard in Resources */,
+				88399C6020EF0EB400CD8E32 /* SkipRIght.png in Resources */,
+				88399C6620EF0EB400CD8E32 /* Sound3DTouch.png in Resources */,
+				88399C5E20EF0EB400CD8E32 /* InfiniteView Icon.png in Resources */,
 				888619DC20ED22DC00313771 /* Assets.xcassets in Resources */,
+				88399C6220EF0EB400CD8E32 /* Pause.png in Resources */,
+				88399C6420EF0EB400CD8E32 /* SLiderGrabber.png in Resources */,
 				888619D720ED22D800313771 /* Main.storyboard in Resources */,
+				88399C6120EF0EB400CD8E32 /* Repeat3DTouch.png in Resources */,
+				88399C5D20EF0EB400CD8E32 /* RepetitionOptions.png in Resources */,
+				88399C5A20EF0EB400CD8E32 /* PlayButton.png in Resources */,
+				88399C5C20EF0EB400CD8E32 /* Haptic3DTouch.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,9 +340,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88AA55C520FFE11C003D3BCF /* initialLaunchCheck.swift in Sources */,
 				888619DA20ED22D800313771 /* tapAudio.xcdatamodeld in Sources */,
 				888619D420ED22D800313771 /* ViewController.swift in Sources */,
+				88399C3220EEE42000CD8E32 /* musicPlayViewController.swift in Sources */,
 				888619D220ED22D800313771 /* AppDelegate.swift in Sources */,
+				88AA55C721001B25003D3BCF /* getStartedAtLaunchScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -439,6 +523,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5Y286T46P4;
 				INFOPLIST_FILE = tapAudio/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -446,7 +531,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = Joonwoo.tapAudio;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -457,6 +542,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5Y286T46P4;
 				INFOPLIST_FILE = tapAudio/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -464,7 +550,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = Joonwoo.tapAudio;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
